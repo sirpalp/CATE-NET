@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "CATE-NET: Chaotic Attractor Transition Ensemble Network for EEG Brain State Modeling"
+authors:
+  - family-names: Pal
+    given-names: Sir
+    github: sirpalp
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+license: MIT
+date-released: 2025-04-07
+version: "1.0.0"
+repository-code: "https://github.com/sirpalp/CATE-NET"
+doi: "10.1016/j.compbiomed.2025.xxxxxx"
